@@ -2,6 +2,8 @@ package e202114160;
 
 public class Main {
 public static void main(String[] args) {
-System.out.println("최민지");
+System.out.println("홍길동");
+World.run();
+Hello.run();
 }
 }
